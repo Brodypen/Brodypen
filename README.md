@@ -18,8 +18,8 @@
 
 ## My Github Stats
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=FrostandIce&show_icons=true&theme=dracula" />
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrostandIce&layout=compact&theme=dracula" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=FrostandIce&show_icons=true&theme=dracula" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrostandIce&layout=compact&theme=dracula" />
 
 ## Connect with me:
 <p align="left">
