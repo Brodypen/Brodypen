@@ -1,8 +1,8 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Brody!</h1>
+<h1 align="center">👋 Hey, I'm Brody!</h1>
 <h3 align="center">I'm a Student Learning Web Development</h3>
 
 ## About Me
-- 🔭 I'm currently working on a calculator!
+- 🔭 I'm currently working on my Javascript skills!
 - 🌱 I’m currently learning web development through the Odin Project
 - 📚 Im currently reading: Atomic Habits by James Clear
 - 🥅 2022 Goals: Learn React!
