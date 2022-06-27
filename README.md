@@ -22,7 +22,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=FrostandIce&show_icons=true&theme=dracula" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrostandIce&layout=compact&theme=dracula" />
-<img src="https://komarev.com/ghpvc/?username=FrostandIce" />
+<img src="https://komarev.com/ghpvc/?username=FrostandIce&color=dd6387&style=for-the-badge />
 
 ## Connect with me:
 <p align="left">
