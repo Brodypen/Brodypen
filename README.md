@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hey, I'm Brody!</h1>
-<h3 align="center">I'm a Student Learning Web Development</h3>
+<h3 align="center">I'm a college student learning web development</h3>
 
 ## About Me
-- 🔭 I'm looking for a CS internship!
+- 🔭 I’m looking for opportunities to learn and sharpen my skills.
 - 🌱 I’m currently learning web development through the Odin Project
 - 📚 Im currently reading: Deep Work by Cal Newport
 - 🥅 2022 Goals: Learn more about React and Typescript
