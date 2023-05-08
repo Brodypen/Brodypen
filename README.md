@@ -25,7 +25,7 @@
 
 ## My Github Stats
 
-<img align="left" width="47%" src="https://github-readme-stats-brodypen.vercel.app/api?username=Brodypen&show_icons=true&theme=dracula" />
+<img align="left" width="47%" src="https://github-readme-stats-brodypen.vercel.app/api?username=Brodypen&show_icons=true&theme=dracula&count_private=true" />
 <img align="left" width="47%" src="https://github-readme-stats-brodypen.vercel.app/api/top-langs/?username=Brodypen&layout=compact&theme=dracula" />
 <img src="https://komarev.com/ghpvc/?username=Brodypen&color=dd6387&style=for-the-badge" />
 
