@@ -1,14 +1,12 @@
 <h1 align="center">👋 Hey, I'm Brody!</h1>
-<h3 align="center">I'm a college student learning web development</h3>
+<h3 align="center">Fullstack Software Engineer</h3>
 
 ## About Me
-- 🔭 I’m looking for opportunities to learn and sharpen my skills.
-- 🌱 I’m currently learning web development through the Odin Project
-- 📚 Im currently reading: Deep Work by Cal Newport
-- 🥅 2022 Goals: Learn more about React and Typescript
+- 🔭 I’m looking for opportunities to keep learning!
+- 📚 Im currently reading: Building a Second Brain by Tiago Forte
 - ⚡ Fun fact: Cold Coffee > Hot Coffee
 
-## 💻 Tools
+<!-- ## 💻 Tools
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -21,7 +19,7 @@
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
     <img src="https://img.icons8.com/color/48/000000/chakra-ui.png"/>
 
-</p>
+</p> -->
 
 ## My Github Stats
 
