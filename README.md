@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Software Engineer</h3>
 
 ## About Me
-- 🔭 I’m looking for opportunities to keep learning!
+- 🔭 I’m currently working on a [better pomdoro system](https://github.com/Brodypen/focuspomo)!
 - 📚 Im currently reading: Building a Second Brain by Tiago Forte
 - ⚡ Fun fact: Cold Coffee > Hot Coffee
 
