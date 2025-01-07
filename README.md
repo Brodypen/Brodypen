@@ -24,7 +24,7 @@ Some of my experiences include:
 - 🍩 Parent's Donut Shop
 <details>
 <summary>
-  Cool! You got the gist, want to see some cool stuff?
+  Cool! Want to see some more?
 </summary>
 
 ## Leetcode:
